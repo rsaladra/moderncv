@@ -10,9 +10,8 @@
 *.xdv
 *.toc
 
-# template.tex output
-# move to *.pdf once manual is done
-template.pdf
+# .tex output
+*.pdf
 
 # release tarballs
 moderncv-*.tar.gz
